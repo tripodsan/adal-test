@@ -1,0 +1,14 @@
+{
+  "name": "adal-test",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "adal-node": "0.2.1",
+    "request": "2.88.2",
+    "request-promise-native": "1.0.8"
+  },
+  "devDependencies": {
+    "dotenv": "8.2.0"
+  }
+}
